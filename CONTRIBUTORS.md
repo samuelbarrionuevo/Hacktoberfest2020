@@ -47,3 +47,9 @@
 - Place: New Delhi, India
 - Bio: Full Stack Developer
 - GitHub: [Ritika Chauhan](https://github.com/ChauhanRitika)
+
+
+#### Name: [samuelbarrionuevo]((https://github.com/samuelbarrionuevo)
+- Place: Buenos Aires, Argentina
+- Bio: Back End Developer
+- GitHub: [samuelbarrionuevo](https://github.com/samuelbarrionuevo)
